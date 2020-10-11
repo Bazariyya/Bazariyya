@@ -1,0 +1,12 @@
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Domain.dll
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.csprojAssemblyReference.cache
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.AssemblyInfo.cs
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Infrastructure.deps.json
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Infrastructure.dll
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Infrastructure.pdb
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.csproj.CopyComplete
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.dll
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.pdb
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Infrastructure\obj\Debug\netcoreapp3.1\Product.Infrastructure.csproj.CoreCompileInputs.cache

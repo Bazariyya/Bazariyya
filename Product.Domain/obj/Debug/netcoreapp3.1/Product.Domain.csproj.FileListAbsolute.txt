@@ -1,0 +1,9 @@
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.deps.json
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.dll
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csprojAssemblyReference.cache
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfoInputs.cache
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfo.cs
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.dll
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.pdb
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CoreCompileInputs.cache

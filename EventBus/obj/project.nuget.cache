@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JUM5h1ZfbVYV5CugsvoV843iBzcOrfZtVDBU+Iol6I5dbxKbit7oqB1Y+iFt/2hZO19tMyn3STuw3US5TME18A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\EventBus\\EventBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bulut.kaya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

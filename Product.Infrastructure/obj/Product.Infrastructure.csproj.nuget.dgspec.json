@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Infrastructure\\Product.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Domain\\Product.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Domain\\Product.Domain.csproj",
+        "projectName": "Product.Domain",
+        "projectPath": "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Domain\\Product.Domain.csproj",
+        "packagesPath": "C:\\Users\\bulut.kaya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bulut.kaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\bulut.kaya\\source\\repos\\Emos.Integration.Lescon\\LESCON_ENT\\.nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Infrastructure\\Product.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Infrastructure\\Product.Infrastructure.csproj",
+        "projectName": "Product.Infrastructure",
+        "projectPath": "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Infrastructure\\Product.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\bulut.kaya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bulut.kaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\bulut.kaya\\source\\repos\\Emos.Integration.Lescon\\LESCON_ENT\\.nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Domain\\Product.Domain.csproj": {
+                "projectPath": "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\Product.Domain\\Product.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

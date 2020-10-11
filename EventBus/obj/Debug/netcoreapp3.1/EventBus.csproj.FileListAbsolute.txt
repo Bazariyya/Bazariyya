@@ -1,0 +1,15 @@
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\bin\Debug\netcoreapp3.1\EventBus.exe
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\obj\Debug\netcoreapp3.1\EventBus.AssemblyInfoInputs.cache
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\obj\Debug\netcoreapp3.1\EventBus.AssemblyInfo.cs
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\bin\Debug\netcoreapp3.1\EventBus.deps.json
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\bin\Debug\netcoreapp3.1\EventBus.runtimeconfig.json
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\bin\Debug\netcoreapp3.1\EventBus.runtimeconfig.dev.json
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\bin\Debug\netcoreapp3.1\EventBus.dll
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\bin\Debug\netcoreapp3.1\EventBus.pdb
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\obj\Debug\netcoreapp3.1\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\obj\Debug\netcoreapp3.1\EventBus.csproj.CopyComplete
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\obj\Debug\netcoreapp3.1\EventBus.dll
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\obj\Debug\netcoreapp3.1\EventBus.pdb
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\obj\Debug\netcoreapp3.1\EventBus.genruntimeconfig.cache
+C:\Users\bulut.kaya\Desktop\Individual\VisualStudio\Bazariyya\EventBus\obj\Debug\netcoreapp3.1\EventBus.csprojAssemblyReference.cache

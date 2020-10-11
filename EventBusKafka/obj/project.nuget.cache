@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3ZJasTfhWLEYki/zpD8eRQJand6tgm8GpEMpEqZlmHXKnqVrU35pCm4qn7L2+I9Zf8CPaJYcmQjvCBddzgZOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bulut.kaya\\Desktop\\Individual\\VisualStudio\\Bazariyya\\EventBusKafka\\EventBusKafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bulut.kaya\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\bulut.kaya\\.nuget\\packages\\confluent.kafka\\1.4.4\\confluent.kafka.1.4.4.nupkg.sha512",
+    "C:\\Users\\bulut.kaya\\.nuget\\packages\\librdkafka.redist\\1.4.4\\librdkafka.redist.1.4.4.nupkg.sha512",
+    "C:\\Users\\bulut.kaya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\bulut.kaya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bulut.kaya\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
